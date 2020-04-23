@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-23T01:10:43Z" name="Default suite" finished-at="2020-04-23T01:12:12Z" duration-ms="89233">
+    <groups>
+    </groups>
+    <test started-at="2020-04-23T01:10:43Z" name="Default test" finished-at="2020-04-23T01:12:12Z" duration-ms="89233">
+      <class name="assignment2.Assignment2Test">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:assignment2.Assignment2Test@74ea2410]" started-at="2020-04-23T06:40:43Z" name="beforeTest" finished-at="2020-04-23T06:41:37Z" duration-ms="53464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="Tests()[pri:0, instance:assignment2.Assignment2Test@74ea2410]" started-at="2020-04-23T06:41:37Z" name="Tests" finished-at="2020-04-23T06:42:10Z" duration-ms="33057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tests -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:assignment2.Assignment2Test@74ea2410]" started-at="2020-04-23T06:42:10Z" name="afterTest" finished-at="2020-04-23T06:42:12Z" duration-ms="2664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- assignment2.Assignment2Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
